@@ -160,7 +160,7 @@ This forecasting model helps businesses estimate future demand and make informed
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Sales Dashboard](Dashboard%20Screenshots/Sales%20Dashboard.png)
+![Sales Dashboard](https://github.com/Anuragp7155/Superstore-Sales-Analysis-Forecasting-Dashboard-Power-BI/blob/main/Sales%20Dashboard.png?raw=true)
 
 ### Sales Forecast Dashboard
 ![Forecast Dashboard](Dashboard%20Screenshots/Forecast%20Visual.png)
